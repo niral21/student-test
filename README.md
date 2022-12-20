@@ -4,21 +4,9 @@
 - Admin can create test, manage tests and students.
 - Students can apply for the test and view results and answer sheets.
 
-
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-
-```
-Admin login
-email: admin@gmail.com
-password : password
-```
-
 # Installation
 
-1. **Clone or download this Repository.**
+1. **Clone or download this repo https://github.com/niral21/student-test.git**
 2. **Run the command**
    ```
    composer install
@@ -59,7 +47,6 @@ password : password
    php artisan serve
    ```
 
-
 # Screenshots
 
 ## Admin
@@ -72,5 +59,20 @@ password : password
 ![image](https://user-images.githubusercontent.com/119964141/208670291-0b1c7294-ac96-4b5e-a816-54f7402e1921.png)
 ![image](https://user-images.githubusercontent.com/119964141/208671224-e3a66c5e-15f9-4cb8-9bdf-b0a36c68e217.png)
 ![image](https://user-images.githubusercontent.com/119964141/208671436-764f61fd-da49-48ee-9ba2-b75614e067bd.png)
+
+# Login Credentails
+
+**Admin** 
+```
+email : admin@gmail.com
+password : password
+```
+
+**Student** 
+```
+email : student@gmail.com
+password : password
+```
+
 
 
