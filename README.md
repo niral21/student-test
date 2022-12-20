@@ -65,6 +65,7 @@ password : password
 ## Admin side
 
 ![image](https://user-images.githubusercontent.com/119964141/208668239-a454134d-2b1f-4dcd-a342-ea91a4f9b5db.png)
+![image](https://user-images.githubusercontent.com/119964141/208668856-ca4682de-a10f-442f-b5b9-439de24602d3.png)
 
 
 
