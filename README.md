@@ -1,10 +1,13 @@
 # Laravel Student Test (based on Laravel 8.x)
 
 - Application to manage and take the quiz online.
-- Admin can create test, manage tests and students.
-- Students can apply for the test and view results and answer sheets.
+- Secure login system
+- Ability to setup multiple choice question paper
+- Display of quick and accurate results
+- Admin can create test, manage tests and manage students.
+- Students can apply for the test, view results and answer sheets.
 
-# Installation
+# How to run?
 
 1. **Clone or download this repo https://github.com/niral21/student-test.git**
 2. **Run the command**
@@ -32,6 +35,7 @@
    ```
 5. **Run the following command**
    ```
+   php artisan key:generate 
    php artisan migrate:fresh --seed
    ```
 6. **Run npm command**
