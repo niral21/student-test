@@ -62,10 +62,15 @@ password : password
 
 # Screenshots
 
-## Admin side
+## Admin
 
 ![image](https://user-images.githubusercontent.com/119964141/208668239-a454134d-2b1f-4dcd-a342-ea91a4f9b5db.png)
 ![image](https://user-images.githubusercontent.com/119964141/208668856-ca4682de-a10f-442f-b5b9-439de24602d3.png)
 
+## Student
+
+![image](https://user-images.githubusercontent.com/119964141/208670291-0b1c7294-ac96-4b5e-a816-54f7402e1921.png)
+![image](https://user-images.githubusercontent.com/119964141/208671224-e3a66c5e-15f9-4cb8-9bdf-b0a36c68e217.png)
+![image](https://user-images.githubusercontent.com/119964141/208671436-764f61fd-da49-48ee-9ba2-b75614e067bd.png)
 
 
